@@ -1,0 +1,7 @@
+{
+  "visualize": false,
+  "stop_training": false,
+  "print_params": false,
+  "save_ckpt": true,
+  "save_logs": true
+}
